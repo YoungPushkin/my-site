@@ -521,6 +521,10 @@ const contactInfo = [
   box-shadow: 0 0 0 2px rgba(196, 149, 74, 0.25);
   background: #fdf8f0;
 }
+.form-field textarea{
+    width: 95%;
+    position: center;
+}
 
 .submit-btn {
   margin-top: 4px;
