@@ -8,6 +8,7 @@ import Advantages from './pages/Advantages.vue';
 import Rew from './pages/Rew.vue';
 import './pages/Contact.vue';
 import Contact from './pages/Contact.vue';
+import Footer from './pages/Footer.vue';
 </script>
 
 <template>
@@ -19,6 +20,7 @@ import Contact from './pages/Contact.vue';
   <Advantages/>
   <Rew/>
   <Contact/>
+  <Footer/>
 </template>
 
 <style scoped>
