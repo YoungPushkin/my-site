@@ -162,7 +162,6 @@
   );
 }
 
-/* BACKGROUND DECOR */
 .about-bg {
   position: absolute;
   inset: 0;
@@ -222,7 +221,7 @@
 
 .about-pill span {
   color: #c4954a;
-  font-size: 14px;
+  font-size: 20px;
 }
 
 .about-heading {

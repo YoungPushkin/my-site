@@ -113,7 +113,7 @@ onUnmounted(() => {
 .header-container {
   max-width: 1180px;
   margin: 0 auto;
-  padding: 0 16px;
+  padding: 0 10px;
 }
 
 .header-row {
@@ -169,7 +169,7 @@ onUnmounted(() => {
   padding: 4px 0;
   text-decoration: none;
   color: #6b5744;
-  font-size: 14px;
+  font-size: 20px;
   transition: color 0.3s ease;
 }
 .nav-link:hover {
@@ -200,7 +200,7 @@ onUnmounted(() => {
   gap: 6px;
   text-decoration: none;
   color: #6b5744;
-  font-size: 14px;
+  font-size: 20px;
   transition: color 0.3s ease;
 }
 .phone-link:hover {

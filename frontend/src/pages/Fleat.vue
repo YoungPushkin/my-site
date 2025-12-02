@@ -158,6 +158,7 @@ const benefits = [
 }
 .pill span {
   color: #c4954a;
+  font-size: 20px;
 }
 
 .title {

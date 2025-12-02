@@ -257,6 +257,7 @@ const contactInfo = [
 }
 .contact-pill span {
   color: #c4954a;
+  font-size: 20px;
 }
 
 .contact-title {

@@ -140,7 +140,7 @@ const trustItems = [
 .hero-inner {
   position: relative;
   z-index: 1;
-  max-width: 1120px;
+  max-width: 2000px;
   margin: 0 auto;
   padding: 120px 24px 80px;
   display: flex;
@@ -148,7 +148,7 @@ const trustItems = [
 }
 
 .hero-content {
-  max-width: 780px;
+  max-width: 1120px;
   text-align: center;
 }
 
@@ -167,7 +167,7 @@ const trustItems = [
 }
 
 .hero-badge-dot {
-  width: 8px;
+  width: 10px;
   height: 8px;
   border-radius: 999px;
   background: #c4954a;
@@ -175,12 +175,12 @@ const trustItems = [
 }
 
 .hero-badge span {
-  font-size: 14px;
+  font-size: 20px;
 }
 
 /* заголовок */
 .hero-title {
-  font-size: 36px;
+  font-size: 40px;
   line-height: 1.2;
   margin-bottom: 18px;
   text-shadow: 0 6px 20px rgba(0, 0, 0, 0.5);
@@ -188,7 +188,7 @@ const trustItems = [
 
 /* подзаголовок */
 .hero-subtitle {
-  font-size: 18px;
+  font-size: 20px;
   line-height: 1.6;
   margin: 0 auto 26px;
   max-width: 680px;
@@ -213,7 +213,7 @@ const trustItems = [
   background: rgba(255, 255, 255, 0.12);
   border: 1px solid rgba(255, 255, 255, 0.25);
   backdrop-filter: blur(8px);
-  font-size: 14px;
+  font-size: 18px;
 }
 
 .trust-icon {

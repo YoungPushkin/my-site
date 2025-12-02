@@ -139,7 +139,7 @@ const socialLinks = [
 }
 
 .footer-container {
-  max-width: 1180px;
+  max-width: 100%;
   margin: 0 auto;
   padding: 48px 16px 28px;
 }
@@ -352,8 +352,8 @@ const socialLinks = [
   background: rgba(255, 255, 255, 0.08);
   display: flex;
   align-items: center;
-  justify-content: center;
-  font-size: 17px;
+  justify-content: center ;
+  font-size: 14px;
   text-decoration: none;
   transition: 0.25s ease;
 }
